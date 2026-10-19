@@ -1,0 +1,2 @@
+[console_scripts]
+tm = timemachine.cli:main
